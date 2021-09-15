@@ -2,18 +2,18 @@
 
 I'm a _JavaScript_ Front-End Developer (ReactJS, Next.js).<br/>
 
-### 💻 Get in touch
+### Contact me
 
-<span>
-  <a href="https://www.linkedin.com/in/gaabrielo/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<span>  
+  <a href="mailto:gabrieldmendonca2@gmail.com"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </span>
 
 <span>
   <a href="https://t.me/gaabrielo"><img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </span>
 
-<span>  
-  <a href="mailto:gabrieldmendonca2@gmail.com"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<span>
+  <a href="https://www.linkedin.com/in/gaabrielo/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </span>
 
 <span>
