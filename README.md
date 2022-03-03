@@ -1,6 +1,6 @@
 ## Gabriel Mendonça
 
-I'm a _JavaScript_ Front-End Developer (ReactJS, Next.js).<br/>
+I'm a _TypeScript_ Full-Stack Developer (Node.js, React, Next.js).<br/>
 
 ### Contact me
 
