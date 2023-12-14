@@ -21,5 +21,5 @@ I'm a _TypeScript_ Full-Stack Developer (Node.js, React, Next.js).<br/>
 </span>
 
 <span>
-  <a href="[https://app.rocketseat.com.br/me/gabrielo](https://dribbble.com/gaabrielo)"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="App Rocketseat"/></a>
+  <a href="https://dribbble.com/gaabrielo"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="App Rocketseat"/></a>
 </span>
