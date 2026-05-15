@@ -1,6 +1,6 @@
 ## Gabriel Mendonça
 
-I'm a _TypeScript_ Full-Stack Developer (Node.js, React, Next.js).<br/>
+I'm a _TypeScript_ Full-Stack Developer (Node.js, React, Next.js, Python, C#, C, Java, .NET, Go).<br/>
 
 ### Contact me
 
